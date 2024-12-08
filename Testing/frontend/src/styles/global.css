@@ -1,0 +1,38 @@
+body {
+  font-family: poppins;
+}
+body button {
+  cursor: pointer;
+  border-radius: 0.4em;
+  font-family: poppins;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 20em;
+  color: white;
+  color: black;
+}
+.nav .nav-btn {
+  margin-top: 3.1em;
+}
+
+.form-in-adding {
+  display: flex;
+  flex-direction: column;
+}
+.form-in-adding input {
+  margin-top: 2em;
+}
+.form-in-adding button {
+  margin-top: 2em;
+  color: white;
+  background-color: rgb(10, 15, 63);
+}
+
+.update-sec {
+  margin-top: 3.1em;
+}/*# sourceMappingURL=global.css.map */
